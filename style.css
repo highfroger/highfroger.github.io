@@ -1,4 +1,3 @@
-body 
-{
-	background-url:url("./image/BG.jpg");
+body {
+	background-image: url("./image/BG.jpg");
 }
